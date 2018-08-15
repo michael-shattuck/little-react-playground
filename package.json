@@ -1,0 +1,19 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start:dev": "webpack-dev-server"
+  },
+  "dependencies": {
+    "awesome-typescript-loader": "^5.2.0",
+    "file-loader": "^1.1.11",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "typescript": "^3.0.1",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
+  }
+}
